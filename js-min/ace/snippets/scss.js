@@ -1,0 +1,1 @@
+define("ace/snippets/scss",["require","exports","module"],function(s,e,i){"use strict";e.snippetText=void 0,e.scope="scss"});
